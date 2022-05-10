@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "이름": "\uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 2,
+    "이름": "\ud504\ub860\ud2b8 \uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 3,
+    "이름": "\ubc31 \uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 4,
+    "이름": "\ud480 \uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 5,
+    "이름": "\uc2a4\ud50c\ub9bf \uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 6,
+    "이름": "\uace0\ube14\ub9bf \uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 7,
+    "이름": "\ub7f0\uc9c0",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 8,
+    "이름": "\ud558\ud504 \uc2a4\ucffc\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 9,
+    "이름": "\ub808\uadf8 \ud504\ub808\uc2a4",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 10,
+    "이름": "\ub808\uadf8 \uc775\uc2a4\ud150\uc158",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ud1f4\uc0ac\ub450\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 11,
+    "이름": "\ub808\uadf8 \uceec",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ud584\uc2a4\ud2b8\ub9c1",
+    "시작무게": 20
+  },
+  {
+    "id": 12,
+    "이름": "\uc2a4\ud2b8\ub808\uc774\ud2b8 \ub370\ub4dc\ub9ac\ud504\ud2b8",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ud584\uc2a4\ud2b8\ub9c1",
+    "시작무게": 20
+  },
+  {
+    "id": 13,
+    "이름": "\ud799 \uc5b4\ub355\uc158",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub0b4\uc804\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 14,
+    "이름": "\ud799 \uc5b4\ube0c\ub355\uc158",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\uc911\ub454\uadfc",
+    "시작무게": 20
+  },
+  {
+    "id": 15,
+    "이름": "\ud799 \ub808\uc774\uc988",
+    "대분류": "\ud558\uccb4",
+    "소분류": "\ub300\ub454\uadfc",
+    "시작무게": 0
+  }
+]

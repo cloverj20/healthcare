@@ -1,0 +1,53 @@
+.select {
+  width: 100%;
+  padding: 2rem 0;
+  margin: 0 auto;
+  display: flex;
+  border-bottom: 1px solid #333;
+  form {
+    margin: 0 auto;
+    vertical-align: middle;
+    position: relative;
+    select {
+      left: 50%;
+      top: 50%;
+      height: 3rem;
+      transform: translate(-50%, -50%);
+      position: absolute;
+      text-align: center;
+      option {
+        cursor: pointer;
+        text-align: left;
+      }
+    }
+  }
+  .start {
+    font-size: 1.6rem;
+    width: 5rem;
+    height: 3rem;
+    background: beige;
+    border: 1px solid #000;
+    border-radius: 10%;
+    margin-right: 3rem;
+    word-break: keep-all;
+    cursor: pointer;
+  }
+}
+
+.try {
+  padding-top: 10px;
+  width: 32rem;
+  margin: 0 auto;
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
+  set {
+    display: flex;
+    h3 {
+      margin-top: 0;
+      display: block;
+      width: 100px;
+    }
+  }
+}

@@ -1,0 +1,10 @@
+[{"id":1, "이름":"\uc624\ubc84\ud5e4\ub4dc \ud504\ub808\uc2a4", "대분류":"\uc5b4\uae68", "소분류":"\uc804\uba74 \uc0bc\uac01\uadfc", "시작무게":20},
+ {"id":2, "이름":"\uc204\ub354 \ud504\ub808\uc2a4", "대분류":"\uc5b4\uae68", "소분류":"\uc804\uba74 \uc0bc\uac01\uadfc", "시작무게":20},
+ {"id":3, "이름":"\ubc00\ub9ac\ud130\ub9ac \ud504\ub808\uc2a4", "대분류":"\uc5b4\uae68", "소분류":"\uc804\uba74 \uc0bc\uac01\uadfc", "시작무게":20},
+ {"id":4, "이름":"\uc544\ub180\ub4dc \ud504\ub808\uc2a4", "대분류":"\uc5b4\uae68", "소분류":"\uc804\uba74 \uc0bc\uac01\uadfc", "시작무게":20},
+ {"id":5, "이름":"\uc0ac\uc774\ub4dc \ub808\ud130\ub7f4 \ub808\uc774\uc988", "대분류":"\uc5b4\uae68", "소분류":"\uce21\uba74 \uc0bc\uac01\uadfc", "시작무게":10},
+ {"id":6, "이름":"\uc5c5\ub77c\uc774\ud2b8 \ub85c\uc6b0", "대분류":"\uc5b4\uae68", "소분류":"\uce21\uba74 \uc0bc\uac01\uadfc", "시작무게":10},
+ {"id":7, "이름":"\ub9ac\uc5b4 \ub378\ud2b8 \ub808\uc774\uc988", "대분류":"\uc5b4\uae68", "소분류":"\ud6c4\uba74 \uc0bc\uac01\uadfc", "시작무게":20},
+ {"id":8, "이름":"\ubca4\ud2b8 \uc624\ubc84 \ub808\uc774\uc988", "대분류":"\uc5b4\uae68", "소분류":"\ud6c4\uba74 \uc0bc\uac01\uadfc", "시작무게":10},
+ {"id":9, "이름":"\ub9ac\uc5b4 \ub378\ud2b8 \ub85c\uc6b0", "대분류":"\uc5b4\uae68", "소분류":"\ud6c4\uba74 \uc0bc\uac01\uadfc", "시작무게":10},
+ {"id":10, "이름":"\ud504\ub860\ud2b8 \ub808\ud130\ub7f4 \ub808\uc774\uc988", "대분류":"\uc5b4\uae68", "소분류":"\uadf9\uc0c1\uadfc", "시작무게":10}]
